@@ -6,4 +6,7 @@
 
 ## TO DROP A DATABASE
 
-DROP DATABASE db_name;
+- DROP DATABASE db_name;
+
+### USE A DATABASE
+
